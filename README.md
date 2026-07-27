@@ -1,1 +1,1 @@
-(https://leetcode.com/u/MADHANnvp/)
+https://leetcode.com/u/MADHANnvp/
