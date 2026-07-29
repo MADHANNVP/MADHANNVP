@@ -1,2 +1,2 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MADHANnvp)
-![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/madhanny5vx)
+![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=madhanny5vx)
